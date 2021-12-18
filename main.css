@@ -1,0 +1,96 @@
+body {
+    font-size: 67.5%;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: black;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 4.5em;
+    letter-spacing: -0.025em;
+    margin: .75em;
+    text-shadow: 2px 2px 0 rgb(82, 82, 82);
+}
+
+h3 {
+    color: #900C3F;
+    
+}
+
+nav#colornav {
+    background-color: #900C3F;
+    font-size: 1.0em;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin: 1.0em 3.0em ;
+}
+nav#mainNav {
+    color: white;
+    font-size: 1.7em;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin: 1.0em 3.0em ;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+nav li a, nav li a:visited {
+    text-decoration: none;
+    color: white;
+    padding: 0.3em 0.6em;
+}
+nav li a:hover {
+    color:black;
+    background-color: #900C3F;
+}
+.about-me-div {
+    color: white;
+    font-size: 3.0em;
+}
+
+.about-me-content {
+    color: white;
+    font-size: 1.75em;
+}
+
+img {
+    border: 5px solid #900C3F;
+  }
+
+.projects-div {
+    text-align: center;
+    color: white;
+    font-size: 3.0em; 
+}
+
+.container2 {
+    color: white;
+    font-size: 2.0em; 
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #900C3F; 
+}
+.container3 {
+    color: white;
+    font-size: 2.0em; 
+    text-align: left;
+}
+
+.container4 {
+    color: white;
+}
+
+li {
+    color: black;
+}
